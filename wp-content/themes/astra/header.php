@@ -45,7 +45,7 @@ if ( apply_filters( 'astra_header_profile_gmpg_link', true ) ) {
 	title="<?php echo esc_attr( astra_default_strings( 'string-header-skip-link', false ) ); ?>">
 		<?php echo esc_html( astra_default_strings( 'string-header-skip-link', false ) ); ?>
 </a>
-
+<h1>My Name is JAYA</h1>
 <div
 <?php
 	echo astra_attr(
